@@ -7,5 +7,5 @@
     z-index: 20;
 }
 body{
-    background-image:url("/pictures/milkyway.webp");;
+    background-image:url("milkyway.webp");
 }
